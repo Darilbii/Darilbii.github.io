@@ -1,2 +1,3 @@
 name: Daril Brown II, Ph.D. Candidate
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
