@@ -1,8 +1,6 @@
 ---
-layout: default
-title: Daril Brown II, Ph.D. Candidate
----
-# Hello, This is my personal website 
-... as you can see it is still under development!
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-Please comeback in the future when this will be more fleshed out with cool things about me and the things I do for research!
+layout: home
+---
