@@ -27,6 +27,8 @@ github_username:  Darilbii
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-feeling-responsive
+
+
 plugins:
   - jekyll-feed
 
