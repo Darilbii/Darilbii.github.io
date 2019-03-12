@@ -28,3 +28,7 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# To enable the github-pages gem for the site
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
