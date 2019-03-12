@@ -1,9 +1,13 @@
+---
+layout: page
+---
 <!DOCTYPE html>
 	<html>
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<!-- <link rel="stylesheet" type="text/css" href="/css/main.css"> -->
+			{% include _navigation.html %}
 		</head>
 		<body>
 			<nav>
@@ -15,9 +19,9 @@
 	    		</ul>
 			</nav>
 			<div class="container">
-			
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>

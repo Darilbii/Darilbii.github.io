@@ -1,0 +1,49 @@
+- name: GitHub
+  url: http://github.com/Darilbii
+  class: icon-github
+  title: Code and more...
+
+# - name: YouTube
+#   url: http://www.youtube.com/
+#   class: icon-youtube
+#   title: "Videos, and Video Tutorials on YouTube"
+
+- name: Twitter
+  url: http://twitter.com/darilbrown
+  class: icon-twitter
+  title: "Infrequent tweets from a Bird Song Researcher"
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/
+#   class: icon-cloud
+#   title: ""
+
+# - name: YouTube Google+
+#   url: https://plus.google.com
+#   class: icon-googleplus
+#   title: ""
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
