@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page-fullwidth
-<!-- homepage: False -->
+homepage: False
 title: Hello!
 teaser:
 header:

@@ -27,9 +27,11 @@ github_username:  Darilbii
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-feeling-responsive
-remote_theme: Phlow/feeling-responsive
+remote_theme: Phlow/feeling-responsive@gh-pages
 
 plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - github-pages
   - jekyll-feed
 
