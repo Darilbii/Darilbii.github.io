@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Personal Website of Daril Brown II
+title: Daril Brown Personal Website
 email: debrown@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Personal Website of Daril Brown II,
@@ -29,8 +29,11 @@ markdown: kramdown
 # theme: jekyll-theme-feeling-responsive
 remote_theme: Phlow/feeling-responsive@gh-pages
 
+# Logo size is supposed to be 600x80 pixels
+logo: "logo_small.png"
+
 plugins:
-  - jekyll-include-cache
+  # - jekyll-include-cache
   - jekyll-remote-theme
   - github-pages
   - jekyll-feed
