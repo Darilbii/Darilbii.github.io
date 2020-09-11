@@ -13,6 +13,11 @@
   class: icon-twitter
   title: "Infrequent tweets from a Bird Song Researcher"
 
+- name: LinkedIn
+  url: www.linkedin.com/in/daril-brown-52294927
+  class: icon-linkedin
+  title: "Professional Social Media"
+
 # - name: Instagram
 #   url: http://instagram.com/
 #   class: icon-instagram
