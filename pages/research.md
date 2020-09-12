@@ -2,6 +2,8 @@
 layout: page-fullwidth
 title: Research
 permalink: /research
+
+homepage: false
 ---
 
 # The Quick Version

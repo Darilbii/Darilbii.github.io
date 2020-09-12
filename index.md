@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page-fullwidth
-homepage: true
 title: Hello!
 <!-- teaser: -->
 header:
@@ -11,6 +10,8 @@ header:
     caption: Learn More about me personally here
     caption_url: /about
 
+permalink: /index.html
+homepage: True
 ---
 
 <!-- TODO: Change the Font and layout of Text -->

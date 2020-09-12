@@ -2,6 +2,8 @@
 layout: page-fullwidth
 title: About
 permalink: /about
+
+homepage: False
 ---
 
 Authenticity, Compassion, and intimacy.
