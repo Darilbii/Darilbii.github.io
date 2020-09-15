@@ -29,18 +29,18 @@
 #     - tile: "Tools"
 #       url:  "/creating/tools/"
 
-# - title:    Teaching
-#   url:      "/teaching/"
-#   side:     left
-#   dropdown:
-#     - title: Mentees
-#       url:  "/teaching/mentorship"
-#     - title: STARS
-#       url: "/teaching/STARS"
-#     - title: Academic Connections
-#       url:  "/teaching/academic-connections"
-#     - title: CAFÉ
-#       url:  "/teaching/cafe"
+- title:    Teaching
+  url:      "/teaching/"
+  side:     left
+  dropdown:
+    - title: Mentees
+      url:  "/teaching/mentorship"
+    - title: STARS
+      url: "/teaching/stars"
+    # - title: Academic Connections
+    #   url:  "/teaching/academic-connections"
+    # - title: CAFÉ
+    #   url:  "/teaching/cafe"
 
 # - title:    Learning
 #   url:      "/learning/"
