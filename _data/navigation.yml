@@ -15,8 +15,8 @@
   url:      "/communicating/"
   side:     left
   dropdown:
-    # - title: Grad Slam
-    #   url:  "/communicating/grad_slam"
+    - title: Grad Slam
+      url:  "/communicating/grad_slam"
     # - title: Posters
     #   url:  "/communicating/posters"
 
@@ -28,13 +28,15 @@
 #       url:  "/creating/coding/"
 #     - tile: "Tools"
 #       url:  "/creating/tools/"
-#
+
 # - title:    Teaching
 #   url:      "/teaching/"
 #   side:     left
 #   dropdown:
-#     - title: Mentorship
+#     - title: Mentees
 #       url:  "/teaching/mentorship"
+#     - title: STARS
+#       url: "/teaching/STARS"
 #     - title: Academic Connections
 #       url:  "/teaching/academic-connections"
 #     - title: CAFÉ

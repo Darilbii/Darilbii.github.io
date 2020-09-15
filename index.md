@@ -29,4 +29,4 @@ If you want to know more about me you can read my [about page](/about). Or if yo
 ## Research Overview
 
 At present my research seeks to establish songbirds as a novel animal model for the development of a human speech prosthesis. My work has largely focused on understanding the neural encoding of the bird’s intended song so that we can develop systems that can predict and produce it for them. You can read more about my current research explained at two levels, one for the general public and the other for those in the neuroscience field, [here](/research).
-I have also given two 3-minute talks on my research as a Finalist at UCSD’s Grad Slam competition that you can watch on youtube at the following links: [ [2018](https://www.youtube.com/watch?v=M0NQ-LycnpI), [2020](https://www.youtube.com/watch?v=N9GrS-xlG_0) ].
+I have also given two 3-minute talks on my research as a Finalist at UCSD’s Grad Slam competition that you can watch on youtube at the following links: [ [2018](/communicating/grad_slam/2018), [2020](/communicating/grad_slam/2020) ].
