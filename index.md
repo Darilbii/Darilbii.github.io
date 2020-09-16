@@ -20,7 +20,7 @@ My name is Daril Brown and I am a Ph.D. Candidate in the Electrical Engineering 
 
 ## Quick Overview about Me
 
-One of my guiding philosophies is to always “reach back as I strive forward.” So you can regularly find me [communicating](/communicating) to the general public to get them excited about science or [mentoring](/mentoring) the next generation of diverse engineers. I aspire to be an advocate for science literacy who helps to lower the barriers to entry for those underrepresented in science and engineering.
+One of my guiding philosophies is to always “reach back as I strive forward.” So you can regularly find me [communicating](/communicating) to the general public to get them excited about science or [mentoring](/teaching) the next generation of diverse engineers. I aspire to be an advocate for science literacy who helps to lower the barriers to entry for those underrepresented in science and engineering.
 
 As a self taught programmer I am a big advocate for open science, and have worked to [create](/research) and share useful tools (both hardware and software) that can enable others to reproduce my work. However my interests for self enrichment aren’t limited to software. I have also sought training in Engineering Leadership, Business, Science Communication, and Neurotech Development.
 
