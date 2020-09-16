@@ -19,10 +19,10 @@ header:
 
   <p>
   <b>Research:</b> Variable radius Pulley for a passive counterbalance system for small animal experiments <br>
-  <b>Research Interest:</b>  <br>
-  <b>Career Goals:</b>  <br>
-  <b>Hobbies:</b>  <br>
-  <b>Fun fact:</b>
+  <b>Research Interest:</b> Wearable sensors and systems with application in rehabilitation <br>
+  <b>Career Goals:</b> Long term career goals are to become a senior researcher in medical device field, and then eventually becoming a professor. <br>
+  <b>Hobbies:</b> I enjoy powerlifting, doing Brazilian Jiu-Jitsu, and cooking. <br>
+  <b>Fun fact: I can make a pretty good pizza from scratch</b>
   </p>
 
 
