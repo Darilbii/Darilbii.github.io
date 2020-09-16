@@ -6,7 +6,7 @@ permalink: /about
 homepage: False
 ---
 
-Authenticity, Compassion, and intimacy.
+Authenticity, Compassion, and Camaraderie.
 
 <!-- ![Professional Headshot](/images/headshot.jpg) -->
 
