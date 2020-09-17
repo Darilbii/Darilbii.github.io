@@ -35,7 +35,7 @@ header:
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-    <img src="{{ https://www.kpbs.org/podcasts/rad-scientist/2020/aug/26/rad-scientist-back/ }}/images/kpbs_radscientist.jpg" alt="">
-        <p>KPBS Rad Scientist: <br> <a href="https://www.kpbs.org/podcasts/rad-scientist/"> Upcoming Podcast feature hosted by Margo Wohl (photo credit Rad Scientist)</a></p>
+    <a href="https://www.kpbs.org/podcasts/rad-scientist/2020/sep/16/vocal-chops/"><img src="{{ https://www.kpbs.org/podcasts/rad-scientist/2020/aug/26/rad-scientist-back/ }}/images/kpbs_radscientist.jpg" alt=""></a>
+        <p>KPBS Rad Scientist: <br> <a href="https://www.kpbs.org/podcasts/rad-scientist/"> Podcast feature hosted by Margo Wohl (photo credit Rad Scientist)</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
