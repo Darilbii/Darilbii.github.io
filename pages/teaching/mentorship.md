@@ -39,10 +39,10 @@ header:
 
   <p>
   <b>Research:</b> Neural Oscillations of Premotor Regions during Bird Song <br>
-  <b>Research Interest:</b>  <br>
-  <b>Career Goals:</b>  <br>
-  <b>Hobbies:</b>  <br>
-  <b>Fun fact:</b>
+  <b>Research Interest:</b> Finding the neural mechanisms of how music affects the human brain and how to use it to assist with learning, memory, anxiety, and Alzheimer's. <br>
+  <b>Career Goals:</b> I've had several mentors in my life who have contributed to my success, and this is why I strive to find a balance between personal development and assisting my community by also being a mentor for the underrepresented. <br>
+  <b>Hobbies:</b> To name a few, I enjoy riding my bike, hiking, playing board games, mentoring, and teaching. <br>
+  <b>Fun fact:</b> I was a student mentor/ambassador for over 250 prospective students across California.
   </p>
 
 
