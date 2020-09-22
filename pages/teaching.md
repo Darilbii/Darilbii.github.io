@@ -8,7 +8,7 @@ categories:
 ---
 > "A life is not important except in the impact it has on other lives."" <cite>[Jackie Robinson](https://www.jackierobinson.org/our-programs/jrf-effect)</cite>
 
-As a Jackie Robinson Scholar I am aware of the legacy and sacrifices that were made for me to have the opportunity to accomplish my academic and personal accomplishments. So I feel responsible to alway reach back and lay the foundation for those future engineers and scientists who will follow behind me.
+As a Jackie Robinson Scholar I am aware of the legacy and sacrifices that were made for me to have the opportunity to accomplish my academic and personal accomplishments. So I feel responsible to always reach back and lay the foundation for those future engineers and scientists who will follow behind me.
 
 <div class="row t60">
     <div class="medium-6 columns b30">
