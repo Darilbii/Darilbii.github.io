@@ -15,7 +15,7 @@ Authenticity, Compassion, and Camaraderie.
 <div class="row">
   <div class="small-4 columns">
 
-  <img src="images/daril_brown_headshot.jpg" align="left" />
+  <img src="images/professional_headshot_2022.jpg" align="left" />
   </div><p>
   I earned my Bachelors degree in Mechanical Engineering fully funded at Howard University with the Capstone Scholarship and as a Jackie Robinson Foundation Scholar. Receiving both the NSF GRFP and the UC-HBCU Fellowship I also earned my Masters degree in Bioengineering from UC San Diego. Currently I am a PhD candidate in UCSD’s Electrical Engineering Department.</p>
 
