@@ -58,12 +58,12 @@ header:
   Adam Kadwory <br> Bioengineering</p>
 
   <p>
-  <b>Research:</b>Integrated counterweight mechanism and Protective Headcap <br>
+  <b>Research:</b> Automatic labeling and Audio Segmentation for birdsong <br>
 
-  <b>Research Interest:</b>  <br>
-  <b>Career Goals:</b>  <br>
-  <b>Hobbies:</b>  <br>
-  <b>Fun fact:</b>
+  <b>Research Interest:</b>  My research interests are designing and developing bionic systems, Neurobionics and Brain Machine Interface.<br>
+  <b>Career Goals:</b> Ultimately I want to build a team for designing and developing medical devices that can make a positive impact in human health. <br>
+  <b>Hobbies:</b> I like surfing <br>
+  <b>Fun fact:</b> I've been drawing since I was 6 years old
 
   </p>
 
