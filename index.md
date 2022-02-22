@@ -24,9 +24,9 @@ One of my guiding philosophies is to always “reach back as I strive forward.�
 
 As a self taught programmer I am a big advocate for open science, and have worked to [create](/research) and share useful tools (both hardware and software) that can enable others to reproduce my work. However my interests for self enrichment aren’t limited to software. I have also sought training in Engineering Leadership, Business, Science Communication, and Neurotech Development.
 
-If you want to know more about me you can read my [about page](/about). Or if you want a quicker summary of my Professional career you can view my [CV](/cv), or go to my [publications](/publications).
+If you want to know more about me you can read my [about page](/about). Or if you want a quicker summary of my Professional career you can view my [CV]({{ site.url }}/assets/Brown_CV.pdf), or go to my [publications](https://scholar.google.com/citations?user=DuzKEysAAAAJ&hl=en).
 
 ## Research Overview
 
 At present my research seeks to establish songbirds as a novel animal model for the development of a human speech prosthesis. My work has largely focused on understanding the neural encoding of the bird’s intended song so that we can develop systems that can predict and produce it for them. You can read more about my current research explained at two levels, one for the general public and the other for those in the neuroscience field, [here](/research).
-I have also given two 3-minute talks on my research as a Finalist at UCSD’s Grad Slam competition that you can watch on youtube at the following links: [ [2018](/communicating/grad_slam/2018), [2020](/communicating/grad_slam/2020) ].
+I have also given three 3-minute talks on my research as a Finalist, and 2nd Place Finalist, at UCSD’s Grad Slam competition that you can watch on youtube at the following links: [ [2018](/communicating/grad_slam/2018), [2020](/communicating/grad_slam/2020), and [2021 (2nd Place)](/communicating/grad_slam/2021)].
