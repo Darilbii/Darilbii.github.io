@@ -23,6 +23,10 @@ Speech is a complex motor sequence that requires dynamic coordination of the art
 
 I have found informative features extracted from neural activity recorded by collaborators using chronic depth electrodes implanted in the premotor nucleus HVC (used as a proper name) of awake free behaving zebra finches. Zebra Finch, and songbirds as a whole, are already used to study vocal learning and their premotor nuclei are homologous to human motor cortex with respect to function and gene transcription. In a study presented at the 2018 Society for Neuroscience Meeting, I detailed novel Local Field Potentials (LFP) signatures that are predictive of syllable onset. LFP signals carry information regarding both local and presynaptic neural activity and can be reliably recorded over long time scales, making it ideal for practical vocal prostheses. Furthermore, spectral decomposition of the HVC LFP revealed similar spectral characteristics to LFP in human motor cortex. This work, currently under review, will enrich the literature connecting human and avian vocal production.
 
+This work has been covered in multiple news outlets including [Psychology Today](https://www.psychologytoday.com/us/blog/the-future-brain/202106/brain-computer-interface-recreates-bird-song-brainwaves) and [ScienMag (Science Magazine)](https://scienmag.com/decoding-birds-brain-signals-into-syllables-of-song/).
+
+Most Recently this work was featured on [SciShow](https://www.youtube.com/watch?v=fAgIQOTQF-Q&t=218s)!
+
 
 
 <!-- <div class="row">
