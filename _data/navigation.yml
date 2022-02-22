@@ -64,9 +64,9 @@
 #     - title: Traveling
 #       url:  "/living/traveling"
 
-# - title:      C.V.
-#   url:        "/cv/"
-#   side:       right
+- title:      C.V.
+  url:        "/assets/Brown_CV.pdf"
+  side:       right
 
 
 
