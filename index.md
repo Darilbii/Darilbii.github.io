@@ -7,7 +7,7 @@ title: Hello!
 <!-- teaser: -->
 header:
     image_fullwidth: "images/headshot_banner.jpg"
-    caption: Learn More about me personally here
+    caption: Learn more about me personally here
     caption_url: /about
 
 permalink: /index.html
