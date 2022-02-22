@@ -16,6 +16,18 @@ header:
 
 <div class="row t60">
     <div class="medium-6 columns b30">
+        <a href= "https://www.herroyalscience.com/podcast/episode/90b13ca9/27-steven-universe"><img src="/images/her_royal_science.jpeg"></a>
+        <p>Her Royal Science Podcast: <br> <a href="https://www.herroyalscience.com/podcast/episode/90b13ca9/27-steven-universe">"Steven Universe"</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b30">
+        <a href="/communicating/grad_slam/2021"><img src="/images/gradslam_2021.jpg"></a>
+        <p>UCSD GradSlam Finals: <br> <a href="/communicating/grad_slam/2018">From Singing to Speaking: Lessons Learned from Songbirds</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-6 columns b30">
         <a href="/communicating/grad_slam/2018"><img src="/images/gradslam_2018_horizontal.jpg"></a>
         <p>UCSD GradSlam Finals: <br> <a href="/communicating/grad_slam/2018">From Singing to Speaking: Lessons Learned from Songbirds
 </a></p>
